@@ -1,0 +1,90 @@
+.container{
+        margin: 0;
+        padding:0;
+        box-sizing:border-box;
+        height: 100%;
+        width: 99%;
+        background-image:linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url(istockphoto-1289411982-170667a.jpg);
+        background-size:cover;
+        background-attachment:fixed;
+        background-position: center;
+        position:relative;
+        -moz-background:cover;
+        -webkit-background:cover;
+}
+
+#form{
+    background-color:white;
+    border-radius: 10px;
+    
+    opacity: 100%;
+    margin-top:15%;
+    margin-left: 25%;
+    position:relative;
+    
+    
+    padding: 10px;
+    text-align: center;
+    width: 25%;
+   
+    
+}
+.name1{
+    color: rgb(8, 8, 8);
+  
+    display: block;
+   
+}
+
+.mali{
+    color: rgb(8, 8, 8);
+   
+    display: block;
+}
+
+
+.submit{
+    text-align: center;
+    border-color: rgb(115, 243, 10);
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Times New Roman';
+}
+
+.submit:hover{
+    color: darkblue;
+    transform: scale(1.0);
+}
+#submit{
+    background-color: blue;
+    border-radius: 9px;
+    border-width: 1px;
+    
+}
+#submit B{
+    color: white;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

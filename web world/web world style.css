@@ -1,0 +1,85 @@
+.container{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    height: 100%;
+    width: 99%;
+    background-image:linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url(istockphoto-1289411982-170667a.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+    background-position: center;
+    position:relative;
+    -moz-background:cover;
+    -webkit-background:cover;  
+    }
+
+    h1{
+        text-align: center;
+        padding-top: 20px;
+        font-size: 30vh;
+        color: transparent;
+        -webkit-text-stroke:1px blue;
+        margin-top: 20px;
+        font-size: 25vh;
+        -webkit-background-clip:text;
+        background-image: url(back.png);
+        animation:back 50s linear infinite;
+      
+      
+    }
+    @keyframes back{100%{
+        background-position:5000px;
+    }
+
+    }
+    .para {
+       font-size: 40px;
+       color:white;
+       text-align: center;
+     
+    
+    }
+    .soft{
+        font-size: 30px;
+        color:white;
+        text-align: center;
+     
+        
+    }
+    .botton {
+        margin-top:38px;
+        font-size: 17px;
+        text-align: center;
+        background-color:white;
+        border-width:2px;
+        
+        
+       
+        margin-left: 47%;
+
+        text-align: center;
+    border-color: rgb(115, 243, 10);
+    border-radius: 10px;
+    cursor: pointer;
+        
+}
+
+.botton  a{
+    text-decoration: none;
+    font-size:17px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: black;
+}
+.botton a:hover{
+    color: darkblue;
+   
+    
+}
+
+
+
+
+
+
+

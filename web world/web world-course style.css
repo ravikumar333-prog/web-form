@@ -1,0 +1,14 @@
+.container{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+    height: 100%;
+    width: 99%;
+    background-image:linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url(istockphoto-1289411982-170667a.jpg);
+    background-size:cover;
+    background-attachment:fixed;
+    background-position: center;
+    position:relative;
+    -moz-background:cover;
+    -webkit-background:cover;  
+    }
